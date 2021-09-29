@@ -48,6 +48,7 @@
         "com.faster-games.t4",
         "com.faster-games.aseprite",
         "com.faster-games.ui-components",
+        "com.faster-games.editor-tools",
         "com.openupm"
       ]
     }
